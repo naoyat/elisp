@@ -1,0 +1,5 @@
+emacs-lisp 小ネタ集 by naoya_t
+
+macosx
+	growlnotify.el - Emacsで保存時にGrowlで主張する。.emacs にコピペしてね
+	skype-moodtext.el - Skypeのmoodtextに何か書き込む関数。
